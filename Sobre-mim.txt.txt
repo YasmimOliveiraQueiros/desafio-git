@@ -3,3 +3,5 @@ Nome: Yasmim Oliveira Queiros
 Idade: 17
 Cidade: Maracanaú
 Curso: Técnico em informática
+Hobby: ler, jogar e conversar
+Comida favorita: comida japonesa
